@@ -1,0 +1,16 @@
+body{
+    background-color: grey;
+    
+}
+fieldset{
+    height: 250;
+    width: 400;
+}   
+
+h1{
+    text-align: center;
+    color: red;
+}
+h2{
+    color: blue;
+}
